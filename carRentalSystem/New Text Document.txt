@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lab1</title>
+</head>
+<body>
+    <h1>Raghad Almalki</h1> 
+    <a href="https://uqu.edu.sa/en/Profile/s442010549">My UQU university website</a>
+
+    <ul>
+        <li>Sunday</li>
+        <li>Monday</il>
+        <li>Tuesday</li>
+        <li>Wednesday</li>
+        <li>Thursday</li>
+        <li>Friday</li>
+        <li>Saturday</li>
+    </ul>
+
+    <ol type="A">
+        <li>HTML</li>
+        <li>XML</li>
+        <li>XHTML</li>
+    </ol>
+
+    <h3>Eckhart Tolle</h3>
+    <blockquote> 
+        "the present moment is all you have"
+    </blockquote>
+
+    <p> A diagram of the organization of a website is called a <strong>site map</strong>. A site map
+        represents the structure, or organization, of pages in a website in a visual manner. 
+        Creating the site map is one of the initial steps in developing a website. </p>
+
+</body>
+</html>
